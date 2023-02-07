@@ -1,0 +1,10 @@
+# Node
+node_modules
+*.log
+.nvm
+.env
+/bots/node_modules/
+package-lock.json
+
+# OS X
+.DS_Store
